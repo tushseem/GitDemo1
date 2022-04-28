@@ -8,6 +8,7 @@ public class Test1
 	public void red()
 	{
 		System.out.println("Im RED...!");
+		System.out.println("Im RED1...!");
 	}
 	
 	@Test
