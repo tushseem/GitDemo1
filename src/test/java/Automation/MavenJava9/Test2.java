@@ -15,4 +15,10 @@ public class Test2
 	{
 		System.out.println("Im ORANGE...!");
 	}
+	
+	@Test
+	public void magenta()
+	{
+		System.out.println("Im Magenta...!");
+	}
 }

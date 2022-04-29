@@ -17,5 +17,11 @@ public class Test1
 		System.out.println("Im GREEN...!");
 	}
 	
+	@Test
+	public void black()
+	{
+		System.out.println("Im BLACK...!");
+	}
+	
 
 }
